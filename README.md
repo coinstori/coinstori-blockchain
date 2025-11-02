@@ -4,7 +4,7 @@ CoinStori - Connect &amp; Share Blockchain Era
 
 Welcome to **CoinStori SEO Repository** — a simple GitHub Page created to support Web3 media visibility and backlinking.
 
----
+--
 
 ### 🔗 Visit CoinStori
 👉 [CoinStori.com](https://coinstori.com) — your trusted hub for blockchain stories, company listings, and media partnerships.
