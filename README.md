@@ -14,7 +14,7 @@ Welcome to **CoinStori SEO Repository** — a simple GitHub Page created to supp
 ### 🧭 Discover CoinStori Ecosystem
 - 🏢 [Company Discover](https://coinstori.com/company-discover/) — Explore verified blockchain and fintech companies.
 - 🎟️ [Event Discover](https://coinstori.com/event-discover/) — Find top global blockchain & Web3 events.
-- 💼 [Crypto Marketing Agency Directory](https://coinstori.com/crypto-marketing-agency/) — Discover trusted Web3 marketing partners.
+- 💼 [Crypto Marketing Agency(https://coinstori.com/crypto-marketing-agency/) — Discover trusted Web3 marketing partners.
 - 🚀 [Top Digital Marketing Agencies](https://coinstori.com/top-digital-marketing-agencies/) — Featuring leading growth marketing firms worldwide.
 - 💻 [SaaS Marketing Agencies](https://coinstori.com/saas-marketing-agencies/) — Explore top-tier SaaS growth and lead generation experts.
 
